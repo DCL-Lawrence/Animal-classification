@@ -1,14 +1,14 @@
 Animal Identification Machine
 
-狗 : 5000 ( 訓練 )、1001 ( 測試 )
+Dog : 5000 ( train )、1001 ( test )
 
-鹿 : 5000 ( 訓練 )、1001 ( 測試 )
+Deer : 5000 ( train )、1001 ( test )
 
-鳥 : 5000 ( 訓練 )、1001 ( 測試 )
+Bird : 5000 ( train )、1001 ( test )
 
-青蛙 : 5000 ( 訓練 )、1001 ( 測試 )
+Frog : 5000 ( train )、1001 ( test )
 
-選用模型:DenseNet
+Module:DenseNet
 ![image](https://user-images.githubusercontent.com/78140351/165757398-7c2ad839-af64-42e8-963a-a7432a4e0bd2.png)
 
 Train accuracy : 0 . 9996004104614258
@@ -26,3 +26,13 @@ F1-score : 0 . 8936223630979687
 
 
 ![image](https://user-images.githubusercontent.com/78140351/165756383-4e159c5b-65c5-42d5-bf4c-b59e9ce6dd7f.png)
+
+Environment :
+
+a. Anaconda 5.1.0
+
+b. CUDA 10.0
+
+c. CUDNN 7.6.4
+
+d. tensorflow-gpu 2.0.0-

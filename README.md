@@ -35,4 +35,4 @@ b. CUDA 10.0
 
 c. CUDNN 7.6.4
 
-d. tensorflow-gpu 2.0.0-
+d. tensorflow-gpu 2.0.0
